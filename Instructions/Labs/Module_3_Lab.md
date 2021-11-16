@@ -355,7 +355,7 @@ The main tasks for this exercise are as follows:
 
 1. Within the Remote Desktop session to **az30308a-hv-vm**, in the Microsoft Edge window, in the Azure portal, search for and select **Azure Migrate**.
 
-1. On the **Azure Migrate | Windows, Linux and SQL Server** blade, select **Discover** in the **Azure Migrate: Server Assessment** tile. 
+1. On the **Azure Migrate | Windows, Linux and SQL Server** blade, select **Discover** in the **Azure Migrate: Discovery and Assessment** tile. 
 
 1. On the **Discover machines** blade, in the **Are your servers virtualized?** drop-down list, select **Yes, with Hyper-V**. 
 
