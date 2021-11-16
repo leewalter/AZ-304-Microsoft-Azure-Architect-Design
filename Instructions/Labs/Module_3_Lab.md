@@ -335,7 +335,6 @@ The main tasks for this exercise are as follows:
     | Storage account name | any globally unique name between 3 and 24 in length consisting of letters and digits |
     | Location | the name of the Azure region in which you created the virtual network earlier in this task |
     | Performance | **Standard** |
-    | Account kind | **StorageV2 (general purpose v2)** |
     | Redundancy | **Locally redundant storage (LRS)** |
 
 1. On the **Basics** tab of the **Create a storage account** blade, select **Review + create**.
