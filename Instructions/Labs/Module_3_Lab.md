@@ -409,7 +409,7 @@ The main tasks for this exercise are as follows:
    (Get-NetIPAddress).IPAddress
    ```
 
-1. Within the Remote Desktop session to **az30308a-hv-vm**, download Microsoft Edge and run the installation with the default settings.
+1. If needed, within the Remote Desktop session to **az30308a-hv-vm**, download Microsoft Edge and run the installation with the default settings.
 
 1. Within the Remote Desktop session to **az30308a-hv-vm**, in the Microsoft Edge window, navigate to the [https://`IPaddress`:44368](https://`IPaddress`:44368), where the `IPaddress` placeholder represents the IP address you identified in the previous step.
 
