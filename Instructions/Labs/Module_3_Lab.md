@@ -357,15 +357,15 @@ The main tasks for this exercise are as follows:
 
 1. On the **Azure Migrate | Windows, Linux and SQL Server** blade, select **Discover** in the **Azure Migrate: Discovery and Assessment** tile. 
 
-1. On the **Discover machines** blade, in the **Are your servers virtualized?** drop-down list, select **Yes, with Hyper-V**. 
+1. On the **Discover** blade, in the **Are your servers virtualized?** drop-down list, select **Yes, with Hyper-V**. 
 
-1. On the **Discover machines** blade, in the **Name your appliance** text box, type **az30308a-vma1** and select the **Generate key** button.
+1. On the **Discover** blade, in the **Name your appliance** text box, type **az30308a-vma1** and select the **Generate key** button.
 
    >**Note**: If you encounter a permission-related error while generating an Azure Migrate project key, in the Azure portal, navigate to the **Subscriptions** blade, select your subscription, on your subscription blade, select **Access Control (IAM)** and then assign the **Owner** role to your Azure AD user account.
 
 1. Wait for the resource provisioning to complete, within the Remote Desktop session to **az30308a-hv-vm**, start Notepad, and copy the **Azure Migrate project key** into Notepad. 
 
-1. On the **Discover machines** blade, in the **Download Azure Migrate appliance** text box, select the **.VHD file** option, select **Download** and, when prompted, set the download location to the **F:\VMs** folder.
+1. On the **Discover** blade, in the **Download Azure Migrate appliance** text box, select the **.VHD file** option, select **Download** and, when prompted, set the download location to the **F:\VMs** folder.
 
    >**Note**: Wait for the download to complete. This might take about 5 minutes.
 
